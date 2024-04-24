@@ -1,0 +1,18 @@
+Scrum Master:
+As a Scrum Master, I want to facilitate effective communication between the Product Owner and the Scrum Team to ensure clear understanding of requirements and priorities.
+As a Scrum Master, I want to remove impediments and obstacles faced by the Scrum Team to maintain a smooth workflow and maximize productivity.
+As a Scrum Master, I want to organize and facilitate daily stand-up meetings to keep the team aligned and focused on the sprint goals.
+As a Scrum Master, I want to coach the team on Agile principles and practices to foster continuous improvement and self-organization.
+As a Scrum Master, I want to conduct sprint retrospectives to gather feedback and identify areas for process improvement within the team.
+Product Owner:
+As a Product Owner, I want to prioritize user stories based on business value to ensure that the most valuable features are delivered early.
+As a Product Owner, I want to collaborate with stakeholders to gather feedback and refine the product backlog to reflect changing requirements.
+As a Product Owner, I want to define acceptance criteria for user stories to ensure that the team understands the expected outcome.
+As a Product Owner, I want to participate in sprint planning meetings to provide clarity on user stories and answer any questions from the Scrum Team.
+As a Product Owner, I want to review and accept completed user stories to ensure they meet the defined criteria and align with the product vision.
+Scrum Team:
+As a Scrum Team member, I want to collaborate with other team members to break down user stories into smaller tasks during sprint planning.
+As a Scrum Team member, I want to estimate the effort required for each user story to provide a realistic forecast for sprint delivery.
+As a Scrum Team member, I want to participate actively in daily stand-up meetings to provide updates on progress and identify any obstacles.
+As a Scrum Team member, I want to engage in pair programming or code reviews to ensure code quality and share knowledge with my peers.
+As a Scrum Team member, I want to participate in sprint retrospectives to reflect on our processes and suggest improvements for future sprints.
